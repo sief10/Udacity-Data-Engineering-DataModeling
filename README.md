@@ -26,4 +26,5 @@ The Main Objective of this project is to process Server Log Data of Million Song
  
  # Program Execution 
  
- -
+ - Run create_tables.py in order to Create Databasa
+ - Run etl.py in order to propagate tables with data
