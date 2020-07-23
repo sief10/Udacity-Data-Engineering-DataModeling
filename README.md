@@ -10,7 +10,7 @@ The Main Objective of this project is to process Server Log Data of Million Song
 
 # ERD for Dimension Model :
 
-![](/home/workspace/ERD.jpg"ERD")
+<img src="./ERD.png?raw=true" width="600" />
 
 # Processing Steps:
  - Create Connection to Database .
